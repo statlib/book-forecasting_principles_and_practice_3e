@@ -1,2 +1,1 @@
-# learn-scaffold
-Scaffold for learn-* repo
+https://otexts.com/fpp3/
